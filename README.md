@@ -18,13 +18,13 @@ To view or run the Java programs in this repository:
 
 ### 1) Clone the repository:
 
-git clone https://github.com/ankita34359/Java-Learning-Journey.git
+#### git clone https://github.com/ankita34359/Java-Learning-Journey.git
 
 ### 2) Open the folder for the specific unit you're interested in (e.g., Unit-4/).
 
 ### 3) Compile and run the Java programs using any Java IDE or from the command line
-javac FileName.java
-java FileName
+#### javac FileName.java
+#### java FileName
 
 ## Contributions
 
