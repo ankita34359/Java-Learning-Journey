@@ -5,10 +5,10 @@ Welcome to my Java Learning Journey repository! This space is dedicated to docum
 ## Overview
 In this repository, you will find:
 
-1. Step-by-step code samples from my Java learning process.
-2. Solutions and exercises that demonstrate my understanding of each topic.
-3. Comments and explanations in the code to clarify the logic and flow of the program.
-4. Gradual progression from basic syntax to object-oriented programming, followed by advanced concepts.
+ - Step-by-step code samples from my Java learning process.
+ - Solutions and exercises that demonstrate my understanding of each topic.
+ - Comments and explanations in the code to clarify the logic and flow of the program.
+ - Gradual progression from basic syntax to object-oriented programming, followed by advanced concepts.
 
 ## Repository Structure
 The repository is organized into units representing different learning stages. Currently, I am working on Unit 4. As I progress, I will add more units with corresponding lessons and exercises.
@@ -18,7 +18,7 @@ To view or run the Java programs in this repository:
 
  1. Clone the repository:
 
- git clone https://github.com/ankita34359/Java-Learning-Journey.git
+      - git clone https://github.com/ankita34359/Java-Learning-Journey.git
 
  2. Open the folder for the specific unit you're interested in (e.g., Unit-4/).
 
