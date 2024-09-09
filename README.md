@@ -11,7 +11,7 @@ In this repository, you will find:
  - Gradual progression from basic syntax to object-oriented programming, followed by advanced concepts.
 
 ## Repository Structure
-The repository is organized into units representing different learning stages. Currently, I am working on Unit 4. As I progress, I will add more units with corresponding lessons and exercises.
+The repository is organized into units representing different learning stages. Currently, I am working on Unit 5. As I progress, I will add more units with corresponding lessons and exercises.
 
 ## Getting Started
 To view or run the Java programs in this repository:
